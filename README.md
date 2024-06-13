@@ -8,9 +8,11 @@ Me he dedicado los últimos 15 años a gerenciar proyectos de diferentes sectore
 Decidí adentrarme en el mundo tech aprendiendo Data, por que me gusta y me dí cuenta que es un conocimiento básico para poder manejar los proyectos que el 
 mundo debe enfrentar.
 
-Me encanta estudiar y mantenerme actualizada, tengo conocimientos y habilidades en procesos de BigData y, con sistemas como **Phython, MySQL, Project y Jira**. 
+Me encanta estudiar y mantenerme actualizada, tengo conocimientos y habilidades en procesos de BigData y, con sistemas como **Phython, MySQL, Git, Project y Jira**. 
 
 Soy una líder estratégica, empática, orientada al logro, con marcada competencia en resolución de problemas mediante análisis cuantitativo, capacidad crítica y manejo de equipos.
+
+Si puedo ayudar en tus proyectos no dudes en contactarme mcorreal@gmail.com
 
 
 
