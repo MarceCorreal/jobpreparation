@@ -5,7 +5,7 @@ También soy Ingeniera Mecánica, PMP, Data Analyst.
 
 Me he dedicado los últimos 15 años a gerenciar proyectos de diferentes sectores en empresas importantes como Lavalin, Novartis y Accenture y he sido muy feliz.
 
-Decidí adentrarme en el mundo tech aprendiendo Data, por que me jgusta y me dí cuenta que es un conocimiento básico para poder manejar los proyectos que el 
+Decidí adentrarme en el mundo tech aprendiendo Data, por que me gusta y me dí cuenta que es un conocimiento básico para poder manejar los proyectos que el 
 mundo debe enfrentar.
 
 Me encanta estudiar y mantenerme actualizada, tengo conocimientos y habilidades en procesos de BigData y, con sistemas como **Phython, MySQL, Project y Jira**. 
