@@ -1,4 +1,4 @@
-## Soy Marcela Correal!(Marce)
+## Soy Marcela Correal! (Marce)
 
 Soy Mamá de Pedro, esposa, hija, hermana y amiga.
 También soy Ingeniera Mecánica, PMP, Data Analyst.
