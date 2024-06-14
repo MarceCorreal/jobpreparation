@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Marcela Correal</h1>
-<h3 align="center">Data Analyst, Mechanical Engineer, PMP</h3>
+<h2 align="center">Data Analyst, Mechanical Engineer, PMP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcecorreal&label=Profile%20views&color=0e75b6&style=flat" alt="marcecorreal" /> </p>
 
