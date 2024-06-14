@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Marcela Correal</h1>
+![<texto-alt>](<url-de-la-imagen>)
+<img alt="<texto-alt>" src="<url-de-la-imagen>"><h1 align="center">Hi, I'm Marcela Correal</h1>
 <h4 align="center">Data Analyst, Mechanical Engineer, PMP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcecorreal&label=Profile%20views&color=0e75b6&style=flat" alt="marcecorreal" /> </p>
