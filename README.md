@@ -1,4 +1,4 @@
-![<texto-alt>](<https://github.com/MarceCorreal/jobpreparation/blob/main/Foto%20Github.jpg>)
+
 <img alt="<texto-alt>" src="<url-de-la-imagen>"><h1 align="center">Hi, I'm Marcela Correal</h1>
 <h4 align="center">Data Analyst, Mechanical Engineer, PMP</h3>
 
