@@ -6,7 +6,7 @@
 
 - 🔭 I’m Project Manager **Independent**
 
-- 🌱 I’m currently learning **data science, AI, Business Inteligence**
+- 🌱 I’m currently learning **Data Science, AI, Business Inteligence**
 
 - 💬 One Project! **https://www.youtube.com/watch?v=C6FpawyNrXw**
 
