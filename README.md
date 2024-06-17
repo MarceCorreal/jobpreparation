@@ -1,4 +1,4 @@
-![Texto alternativo]([https://github.com/MarceCorreal/jobpreparation/blob/main/Foto%20Marce.jpg]
+![foto](https://github.com/MarceCorreal/jobpreparation/blob/main/Foto%20Marce.jpg)
 
 
   <h1 style="margin: 0;">I´m Marcela Correal</h1>
