@@ -1,5 +1,3 @@
-![foto](https://github.com/MarceCorreal/jobpreparation/blob/main/Foto%20Marce.jpg)
-
 
 <img src="https://github.com/MarceCorreal/jobpreparation/blob/main/Foto%20Marce.jpg" alt="Foto" width="200"/>
 
