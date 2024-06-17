@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="URL_de_la_imagen" alt="Texto alternativo" style="margin-right: 10px;" width="50">
+  <img src="[(https://github.com/MarceCorreal/jobpreparation/blob/main/Foto%20Marce.jpg)" alt="Texto alternativo" style="margin-right: 10px;" width="50">
   <h1 style="margin: 0;">Título de Mi Proyecto</h1>
 </div>
 
