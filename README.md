@@ -1,3 +1,5 @@
+![Texto alternativo](URL_de_la_imagen)
+
 
   <h1 style="margin: 0;">I´m Marcela Correal</h1>
 </div>
