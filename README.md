@@ -1,7 +1,7 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/MarceCorreal/jobpreparation/blob/main/Foto%20Marce.jpg" alt="Foto" width="150" style="margin-right: 20px;"/>
-  <h1 style="margin: 0 auto;">Título de Mi Proyecto</h1>
+  <h1 style="margin: 0 auto;">Hi! I´m Marcela Correal</h1>
 </div>
 
 
