@@ -4,22 +4,6 @@
   <h1 style="margin: 0 auto;">Hi! I´m Marcela Correal</h1>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="https://github.com/MarceCorreal/jobpreparation/blob/main/Foto%20Marce.jpg" alt="Foto" width="150"/>
-
-<div align="center">
-  <h1>Hi! I'm Marcela Correal</h1>
 </div>
 <h4 align="center">Data Analyst, Mechanical Engineer, PMP</h3>
 
