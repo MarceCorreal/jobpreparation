@@ -6,6 +6,7 @@
 
 I am a happy engineer willing to share my knowledge and experience to contribute to the world...
 
+
 - 🔭 I’m Project Manager **Independent**
 
 - 🌱 I’m currently learning **Data Science, AI, Business Inteligence**
