@@ -1,5 +1,5 @@
 
-<img src="https://github.com/MarceCorreal/jobpreparation/blob/main/Foto%20Marce.jpg" alt="Foto" width="200"/>
+<img src="https://github.com/MarceCorreal/jobpreparation/blob/main/Foto%20Marce.jpg" alt="Foto" width="150"/>
 
 
   <h1 style="margin: 0;">I´m Marcela Correal</h1>
