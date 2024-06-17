@@ -1,12 +1,8 @@
-
+<img src="https://github.com/MarceCorreal/jobpreparation/blob/main/Foto%20Marce.jpg" alt="Foto" width="150"/>
 
 <div align="center">
   <h1>Hi! I'm Marcela Correal</h1>
 </div>
-
-<img src="https://github.com/MarceCorreal/jobpreparation/blob/main/Foto%20Marce.jpg" alt="Foto" width="150"/>
-
-
 <h4 align="center">Data Analyst, Mechanical Engineer, PMP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcecorreal&label=Profile%20views&color=0e75b6&style=flat" alt="marcecorreal" /> </p>
