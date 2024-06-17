@@ -1,24 +1,4 @@
 
-  <img src="https://github.com/MarceCorreal/jobpreparation/blob/main/Foto%20Marce.jpg" alt="Foto" width="150" style="margin-right: 20px;"/>
- 
-  <h1 style="margin: 0 auto;">Hi!, I'm Marcela Correal</h1>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <img src="https://github.com/MarceCorreal/jobpreparation/blob/main/Foto%20Marce.jpg" alt="Foto" width="150"/>
 
 <div align="center">
