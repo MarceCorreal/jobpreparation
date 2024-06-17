@@ -1,6 +1,6 @@
 
   <img src="https://github.com/MarceCorreal/jobpreparation/blob/main/Foto%20Marce.jpg" alt="Foto" width="150" style="margin-right: 20px;"/>
- <div style="display: flex; align-items: center;">
+ 
   <h1 style="margin: 0 auto;">Hi!, I'm Marcela Correal</h1>
 </div>
 
