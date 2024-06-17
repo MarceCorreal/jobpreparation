@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcecorreal&label=Profile%20views&color=0e75b6&style=flat" alt="marcecorreal" /> </p>
 
+I am a happy engineer willing to share my knowledge and experience to contribute to the world...
+
 - 🔭 I’m Project Manager **Independent**
 
 - 🌱 I’m currently learning **Data Science, AI, Business Inteligence**
