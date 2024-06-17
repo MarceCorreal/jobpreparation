@@ -1,3 +1,8 @@
+<div style="display: flex; align-items: center;">
+  <img src="URL_de_la_imagen" alt="Texto alternativo" style="margin-right: 10px;" width="50">
+  <h1 style="margin: 0;">Título de Mi Proyecto</h1>
+</div>
+
 
 <h6align="center">Hi, Im Marcela Correal</h3>
 <h4 align="center">Data Analyst, Mechanical Engineer, PMP</h3>
