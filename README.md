@@ -32,7 +32,8 @@ I am a happy engineer willing to share my knowledge and experience to contribute
 ``
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://github.com/MarceCorreal/jobpreparation/raw/main/Logo_PMI.svg" width="150" alt="PMI Logo">
+<img src="https://github.com/MarceCorreal/jobpreparation/raw/main/Logo_PMI.svg" width="75" alt="PMI Logo">
+
 
 
 
